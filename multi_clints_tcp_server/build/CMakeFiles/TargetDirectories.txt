@@ -1,0 +1,3 @@
+/home/hady-potter/Dev/git_projects/chat_app/multi_clints_tcp_server/build/CMakeFiles/server.dir
+/home/hady-potter/Dev/git_projects/chat_app/multi_clints_tcp_server/build/CMakeFiles/edit_cache.dir
+/home/hady-potter/Dev/git_projects/chat_app/multi_clints_tcp_server/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/clint.dir/src/clint.c.o CMakeFiles/clint.dir/src/talk.c.o -o clint 
